@@ -33,3 +33,26 @@ The site focuses on:
 ---
 
 ## Project Structure
+portfolio-site/
+│── index.html # Entry point and main landing page
+│── about.html # Overview of background, skills, and experience
+│── projects.html # Displays portfolio projects and descriptions
+│── contact.html # Contact details and external links
+│── style.css # Centralized styling for all pages
+│── script.js # Handles basic interactivity and navigation behavior
+
+
+---
+
+## Preview
+
+> 
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone 
